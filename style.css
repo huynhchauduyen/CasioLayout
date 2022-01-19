@@ -12,7 +12,7 @@
 }
 /********** HEADER **************/
 .header{
-    background: url('../img/bgheader.png');
+    background: url('./img/bgheader.png');
     height: 140px;
     color: rgb(255, 255, 255);
 }
